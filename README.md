@@ -4,7 +4,7 @@
 
 
 # 🚀 Space Travel Timeline
-An interactive website showcasing the history of space travel, information about planets, and details from NASA's API (APOD API,  EPONET API, NASA Image $ Video Library, Planet Data.
+An interactive website showcasing the history of space travel, information about planets, and details from NASA's API (APOD API,  EPONET API, NASA Image $ Video Library, Planet Data).
 
 ## 🛠️ Technologies
 
@@ -30,7 +30,7 @@ Note:- CSS and Js files are inside the assets folder.
 ├── index.html      # Html code
 ├── README.md       # Project documentation
 ├── assets/
-│   ├── css         # CSS/SCSS for styling   
+│   ├── css         # CSS for styling   
 │   ├── img         # Images, icons, and media files 
 │   └── js          # javaScript functions and API integration
 ├── Website Preview # preview website images        
