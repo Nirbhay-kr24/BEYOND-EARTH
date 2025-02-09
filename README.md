@@ -1,15 +1,15 @@
 # Planet
 ## Welcome To The Space
-### Website link: https://nirbhay-planet.netlify.app/
+### Website link: https://outerworldsstproject.netlify.app/
 
 
 # 🚀 Space Travel Timeline
-An interactive website showcasing the history of space travel, information about planets, and details from NASA's API and ISRO's Chandrayaan mission.
+An interactive website showcasing the history of space travel, information about planets, and details from NASA's API (APOD API,  EPONET API, NASA Image $ Video Library, Planet Data.
 
 ## 🛠️ Technologies
 
 - **Frontend**: HTML, CSS, JavaScript  
-- **Libraries**: Timeline.js, ScrollReveal.js  
+- **Libraries**: Timeline.js  
 - **Hosting**: Netlify
 - Remix icon
 - Google Fonts
@@ -21,6 +21,8 @@ Note:- CSS and Js files are inside the assets folder.
 ## 🛰️ APIs Used
 
 - **NASA APOD APIs**: For Astronomy picture of the day.
+- **NASA Image $ Video Library**: For images and videos related to space.
+- **EPONET API**: For Natural events Tracking in real time.
 
   ## 📂 Project Structure
 
@@ -39,8 +41,8 @@ Note:- CSS and Js files are inside the assets folder.
 
 - **Space Travel Timeline**: Explore key events in space exploration using interactive visuals powered by Timeline.js.  
 - **Planetary Data**: Learn fascinating facts about planets, and to know more click on them.  
-- **ISRO Chandrayaan Mission**: Dedicated section highlighting milestones from the Chandrayaan mission.  
-- **Interactive Animations**: Engaging user experience with ScrollReveal.js for smooth animations.  
+- **NASA Image $ Video Library**: Search any video or images related to any space missions.  
+- **EONET**: Track natural events happening on any part of the world in real time.  
 - **Modern Hosting**: Deployed on Netlify for fast and reliable access.
 
 ## 🚀 Getting Started
@@ -61,7 +63,7 @@ Deployed using [Netlify](https://www.netlify.com/).
 
 ![Solar System](https://github.com/Nirbhay-kr24/Planet/blob/db57dd9e32f1d4102a5878cd9eb359f9ef65f7ad/Website%20Preview/3.Solar%20System.png)
 
-![Isro](https://github.com/Nirbhay-kr24/Planet/blob/db57dd9e32f1d4102a5878cd9eb359f9ef65f7ad/Website%20Preview/4.isro.png)
+!EONET](https://github.com/Nirbhay-kr24/Planet/blob/db57dd9e32f1d4102a5878cd9eb359f9ef65f7ad/Website%20Preview/4.isro.png)
 
 ![Space travel Timeline](https://github.com/Nirbhay-kr24/Planet/blob/db57dd9e32f1d4102a5878cd9eb359f9ef65f7ad/Website%20Preview/5.Space%20travel%20Timeline.png)
 
