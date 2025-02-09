@@ -247,12 +247,13 @@ img {
   padding-top: 3rem;
 }
 
-.home__bg {
+.star {
   position: absolute;
   width: 100%;
   max-width: auto;
   border-radius: 10px;
 }
+
 
 .home__container {
   position: relative;
@@ -265,7 +266,14 @@ img {
   align-items: start;
 }
 
+.astro{
+  align-items: flex-end;
+  z-index: 1;
+  position: absolute;
+  margin-left: 60%;
+}
 .home__title {
+  z-index: 1;
   font-size: var(--biggest-font-size);
   font-family: var(--second-font);
   font-weight: initial;
