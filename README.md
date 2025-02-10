@@ -1,4 +1,4 @@
-# "Outer World"
+# "BEYOND EARTH"
 ## Space For Everyone
 ### Website link: https://outerworldsstproject.netlify.app/
 
