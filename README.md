@@ -1,9 +1,9 @@
-# Planet
-## Welcome To The Space
+# "Outer World"
+## Space For Everyone
 ### Website link: https://outerworldsstproject.netlify.app/
 
 
-# 🚀 Space Travel Timeline
+# 🚀 Space Information
 An interactive website showcasing the history of space travel, information about planets, and details from NASA's API (APOD API,  EPONET API, NASA Image $ Video Library, Planet Data).
 
 ## 🛠️ Technologies
