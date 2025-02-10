@@ -1,4 +1,4 @@
-# "Orbit Odyssey"
+# "Outer World"
 ## Space For Everyone
 ### Website link: https://outerworldsstproject.netlify.app/
 
