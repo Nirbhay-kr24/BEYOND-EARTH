@@ -19,7 +19,7 @@
   --text-color: hsl(0, 0%, 75%);
   --text-color-light: hsl(217, 81%, 71%);
   --border-color: hsl(0, 0%, 45%);
-  --body-color: hsl(0, 0%, 4%);
+  --body-color: hsl(238, 100%, 11%);
   --body-color-light: hsl(226, 68%, 77%);
   /* Font and typography */
   /*.5rem = 8px | 1rem = 16px ...*/
@@ -54,7 +54,7 @@
 
 /* BASE */
 * {
-  margin: 0;
+  
   padding: 0;
   box-sizing: border-box;
 }
@@ -96,10 +96,7 @@ a {
   text-decoration: none;
 }
 
-img {
-  display: block;
-  height: auto;
-}
+
 
 /* REUSABLE CSS CLASSES */
 
@@ -247,12 +244,6 @@ img {
   padding-top: 3rem;
 }
 
-.star {
-  position: absolute;
-  width: 100%;
-  max-width: auto;
-  border-radius: 10px;
-}
 
 
 .home__container {
@@ -264,6 +255,18 @@ img {
   position: relative;
   display: flex;
   align-items: start;
+}
+.night img{
+position: absolute;
+width: fit-content;
+margin-left: -20cm;
+}
+
+.meteor img{
+  position: relative;
+  width: 100px;
+  right: 200px;
+  margin-top: 40px;
 }
 
 .astro{
@@ -287,6 +290,13 @@ img {
 
 .home__title span:nth-child(1) {
   background: var(--third-gradient);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.home__title span:nth-child(2) {
+  background: white;
   background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
@@ -603,7 +613,7 @@ select {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  background: var(--first-gradient);
+  background: var(--third-gradient);
   color: var(--white-color);
   font-weight: var(--font-semi-bold);
   padding: 1rem 2rem;
@@ -753,15 +763,15 @@ select {
 /* SCROLL BAR */
 ::-webkit-scrollbar {
   width: .6rem;
-  background-color: hsl(0, 0%, 0%);
+  background-color: hsl(238, 95%, 8%);
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: hsl(240, 1%, 13%);
+  background-color: hsl(233, 84%, 15%);
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background-color: hsl(240, 1%, 19%);
+  background-color: hwb(240 9% 74%);
 }
 
 /* SCROLL UP */
