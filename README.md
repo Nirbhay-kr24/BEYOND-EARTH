@@ -57,15 +57,15 @@ Deployed using [Netlify](https://www.netlify.com/).
 
 ## Website SnapShots
 
-![Landing Page](https://github.com/Nirbhay-kr24/Outer-World/blob/main/assets/Website%20Preview/landing%20Page.png)
+![Landing Page](https://github.com/Nirbhay-kr24/BEYOND-EARTH/blob/main/assets/Website%20Preview/landing%20page.png)
 
-![Nasa APOD api](https://github.com/Nirbhay-kr24/Outer-World/blob/main/assets/Website%20Preview/APOD.png).
+![Nasa APOD api](https://github.com/Nirbhay-kr24/BEYOND-EARTH/blob/main/assets/Website%20Preview/APOD.png).
 
-![Solar System](https://github.com/Nirbhay-kr24/Outer-World/blob/main/assets/Website%20Preview/Planets.png)
+![Solar System](https://github.com/Nirbhay-kr24/BEYOND-EARTH/blob/main/assets/Website%20Preview/planet.png)
 
-![NASA Library](https://github.com/Nirbhay-kr24/Outer-World/blob/main/assets/Website%20Preview/NASA%20Library.png)
+![NASA Library](https://github.com/Nirbhay-kr24/BEYOND-EARTH/blob/main/assets/Website%20Preview/nasa%20library.png)
 
-![EONET](https://github.com/Nirbhay-kr24/Outer-World/blob/main/assets/Website%20Preview/EONET.png)
+![EONET](https://github.com/Nirbhay-kr24/BEYOND-EARTH/blob/main/assets/Website%20Preview/eonet.png)
 
-![Space travel Timeline](https://github.com/Nirbhay-kr24/Outer-World/blob/main/assets/Website%20Preview/timeline.png)
+![Space travel Timeline](https://github.com/Nirbhay-kr24/BEYOND-EARTH/blob/main/assets/Website%20Preview/timeline.png)
 
