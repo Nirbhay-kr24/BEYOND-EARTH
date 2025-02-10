@@ -1,6 +1,6 @@
 # "BEYOND EARTH"
 ## Space For Everyone
-### Website link: https://outerworldsstproject.netlify.app/
+### Website link: https://beyond-earthsst.netlify.app/
 
 
 # 🚀 Space Information
