@@ -23,6 +23,7 @@ Note:- CSS and Js files are inside the assets folder.
 - **NASA APOD APIs**: For Astronomy picture of the day.
 - **NASA Image $ Video Library**: For images and videos related to space.
 - **EPONET API**: For Natural events Tracking in real time.
+- **Planetary Data**: Display information about all the planets.
 
   ## 📂 Project Structure
 
