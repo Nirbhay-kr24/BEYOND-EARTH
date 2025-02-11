@@ -15,8 +15,6 @@ An interactive website showcasing the history of space travel, information about
 - Google Fonts
 - Google Sheets(for timeline Creation)
   
-Note:- CSS and Js files are inside the assets folder.
-  
 
 ## 🛰️ APIs Used
 
